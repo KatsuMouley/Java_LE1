@@ -78,14 +78,7 @@ Média ponderada = 8.25
 
 18. Elabore um algoritmo que receba três notas de um aluno e retorne a sua média
 harmônica.
-Média harmônica =
-3
-1
-+
-1
-+
-1
-nota1 nota2 nota3
+![alt text](image.png)
 Exemplo: nota1 = 10, nota2 = 5.5, nota3 = 8
 Média: 7.37
 
