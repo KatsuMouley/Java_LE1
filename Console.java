@@ -91,7 +91,7 @@ public class Console{
                     break;
             }
             
-            System.out.printf("Do you want to execute again?: (1)Yes (Anything)No\nInput:");
+            System.out.printf("Do you want to execute again?: (1)Yes (0)No\nInput:");
             Scanner input = new Scanner(System.in);
             n = input.nextInt();
         } while(n == 1);
