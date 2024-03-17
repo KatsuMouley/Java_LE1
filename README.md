@@ -62,10 +62,8 @@ que encontre o n-ésimo termo de uma progressão aritmética. Exemplo: a1 = 10, 
 7, r = 3. Resultado: an = 28
 
 15. Tendo como dados de entrada dois pontos quaisquer no plano, P1(x1, y1) e P2(x2,
-y2), calcule e retorne a distância entre eles. A fórmula que efetua tal cálculo é: d = raiz
-(((x2 - x1)2
-) + ((y2 - y1)2
-)). Exemplo: p1(0, 5), p2(10, 20). Distancia: 18,03
+y2), calcule e retorne a distância entre eles. A fórmula que efetua tal cálculo é: 
+d = raiz(((x2 - x1)²) + ((y2 - y1)²)). Exemplo: p1(0, 5), p2(10, 20). Distancia: 18,03
 
 16. Elabore um algoritmo que receba três notas de um aluno e retorne a sua média
 aritmética. Exemplo: nota1 = 10.0, nota2 = 5.5, nota3 = 8.0. Média: 7.83
