@@ -6,6 +6,7 @@ public class Ex2{
         int n1 = input.nextInt();
         System.out.printf("Please input the second value: ");
         int n2 = input.nextInt();
+        input.nextLine();
         System.out.println("A soma de ambos os valores é: " + (n1 + n2));            
     }
 }

@@ -7,6 +7,7 @@ public class Ex9 {
         int B = input.nextInt();
         System.out.printf("Please input the B value(Integer): ");
         int A = input.nextInt();
+        input.nextLine();
         if (A == B) {
             System.out.println("Both values "+ A +" and "+ B +" are equals.");
         } else {

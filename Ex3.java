@@ -9,6 +9,7 @@ public class Ex3 {
             int B = input.nextInt();
             System.out.printf("Please input the B value(Integer): ");
             int A = input.nextInt();
+            input.nextLine();
             if (A == B) {
                 System.out.println("Both values are equals, please insert two unique values.");
             } else {

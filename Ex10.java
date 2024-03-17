@@ -4,6 +4,7 @@ public class Ex10 {
         Scanner input = new Scanner(System.in);
         System.out.printf("Please insert a value between 1 and 5: ");
         int n = input.nextInt();
+        input.nextLine();
         switch (n) {
             case 1:
                 System.out.println("Este é o número Um");

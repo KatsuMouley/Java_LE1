@@ -5,6 +5,7 @@ public class Ex12 {
         Scanner input = new Scanner(System.in);
         System.out.printf("Insira o número de um mês: ");
         int n = input.nextInt();
+        input.nextLine();
         switch (n) {
             case 1:
                 System.out.println("Janeiro");

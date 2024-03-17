@@ -8,6 +8,7 @@ public class Ex11 {
             System.out.printf("Insira o " + (i+1) + "° valor: ");
             n[i] = input.nextInt();
         }
+        input.nextLine();
         System.out.printf("n[3] = ");
         for (int i = 0; i < n.length; i++) {
             System.out.printf(n[i] + " ");
