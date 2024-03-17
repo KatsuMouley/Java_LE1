@@ -24,7 +24,7 @@ public class Ex11 {
                 }   
             }
         }
-        
+        //We could just use arrays.sort() but Bubble sort is more fun :)
         System.out.printf("n[3] = ");
         for (int i = 0; i < n.length; i++) {
             System.out.printf(n[i] + " ");
