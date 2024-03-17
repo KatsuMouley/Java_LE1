@@ -1,5 +1,5 @@
 # LISTA DE EXERCÍCIOS DE OPERADORES, TIPOS E CONDICIONAIS
-
+ꟷFeito por Vitor Luiz SM
 # OBJETIVOS
 ꟷ Praticar o uso de operadores de atribuição, relacionais e aritméticos.
 ꟷ Fixar a criação de pequenos algoritmos para resolução de problemas de lógica de programação.
