@@ -15,6 +15,7 @@ public class Ex17 {
         double p2 = input.nextDouble();
         System.out.printf("Please input peso3: ");
         double p3 = input.nextDouble();
+        input.nextLine();
         double mediaP = ((n1*p1)+(n2*p2)+(n3*p3))/(p1+p2+p3);
         System.out.printf("A media ponderada do aluno é a seguinte: %.2f\n", mediaP);
                   

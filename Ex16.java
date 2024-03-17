@@ -9,6 +9,7 @@ public class Ex16 {
         double n2 = input.nextDouble();
         System.out.printf("Please input n3(Nota 3 do aluno): ");
         double n3 = input.nextDouble();
+        input.nextLine();
         double media = (n1 + n2 + n3) / 3;
         System.out.printf("A média do alubo é de %.2f\n", media);
                   

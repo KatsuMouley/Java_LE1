@@ -7,6 +7,7 @@ public class Ex20 {
         double t = input.nextDouble();
         System.out.printf("Insira a distância viajada: ");
         double v = input.nextDouble();
+        input.nextLine();
         double l = (t * v) / 12;
         System.out.println("Você gastou "+l+" litros nesta viagem");
                   
