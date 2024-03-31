@@ -12,6 +12,7 @@ public class Ex14 {
         input.nextLine();
         double an = a1 + (n-1) * r;
         System.out.println("an = " + an);
+        input.close();
                   
     }
 }

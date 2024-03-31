@@ -13,5 +13,6 @@ public class Ex4 {
         System.out.println("A multiplicação de ambos os valores é: " + (n1 * n2));
         System.out.println("A divisão de ambos os valores é: " + (n1 / n2) + " e " + (n2 / n1));
                   
+        input.close();
     }
 }

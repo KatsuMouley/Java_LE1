@@ -10,6 +10,7 @@ public class Ex19 {
         input.nextLine();
         double volume = 3.14 * Math.pow(r,2) * h; 
         System.out.printf("O volume do cilindro é o seguinte: %.2f\n", volume);
+        input.close();
                   
     }
 }

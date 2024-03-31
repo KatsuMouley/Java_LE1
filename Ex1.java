@@ -13,5 +13,6 @@ public class Ex1{
         else {
             System.out.println("Este número é menor do que 10");            
         }
+        input.close();
     }
 }

@@ -47,5 +47,6 @@ public class Ex12 {
                 System.out.println("Mês invalido!");
                 break;
         }
+        input.close();
     }
 }

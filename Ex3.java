@@ -16,6 +16,7 @@ public class Ex3 {
                 System.out.println("The biggest number between A and B is: " + Math.max(A, B));
                 n = 1;
             }  
-        } while( n == 0);          
+            input.close();  
+        } while( n == 0);        
     }
 }

@@ -1,8 +1,6 @@
-import java.util.Scanner;
+
 public class Console{
     public static void main(String[] args) {
-            int n = 0;
-        do{
             System.out.printf("Escolha uma atividade para executar\n(1 - 20)\nInput:");
             int value = UL.lerInteiro();
             switch (value) {
@@ -71,10 +69,5 @@ public class Console{
                 default:
                     break;
             }
-            
-            System.out.printf("Do you want to execute again?: (1)Yes (0)No\nInput:");
-            Scanner input = new Scanner(System.in);
-            n = input.nextInt();
-        } while(n == 1);
     }
 }

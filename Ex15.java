@@ -17,6 +17,7 @@ public class Ex15 {
         input.nextLine();
         double d = Math.sqrt(Math.pow((x2 - x1),2) + Math.pow((y2 - y1),2));
         System.out.printf("A distância entre ambos os pontos é de %.2f\n", d);
+        input.close();
                   
     }
 }

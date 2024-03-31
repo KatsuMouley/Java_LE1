@@ -10,5 +10,6 @@ public class Ex8 {
         } else {
             System.out.printf("The number %d is SMALLER than 50\n", n);
         }
+        input.close();
     }
 }

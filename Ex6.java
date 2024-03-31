@@ -8,5 +8,6 @@ public class Ex6 {
         double F = (9 * C + 160) / 5;
         System.out.printf("-------------------------------------\n");
         System.out.printf("%.2f Fahrenheit\n", F);
+        input.close();
     }
 }

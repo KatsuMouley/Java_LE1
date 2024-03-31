@@ -12,6 +12,7 @@ public class Ex18 {
         input.nextLine();
         double mediaH = 3/(1/n1+1/n2+1/n3);
         System.out.printf("A media harmônica do aluno é a seguinte: %.2f\n", mediaH);
+        input.close();
                   
     }
 }

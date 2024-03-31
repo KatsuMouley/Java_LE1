@@ -12,6 +12,7 @@ public class Ex9 {
             System.out.println("Both values "+ A +" and "+ B +" are equals.");
         } else {
             System.out.println("Both values "+ A +" and "+ B +" are different. The biggest number between them is " + Math.max(A, B));
-        }     
+        }
+        input.close();     
     }
 }

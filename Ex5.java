@@ -18,5 +18,6 @@ public class Ex5 {
         System.out.printf("Depois da troca\n");
         System.out.printf("Variavel B = %d\nVariavel A = %d\n", B, A);
         System.out.printf("-------------------------------------\n");
+        input.close();
     }
 }

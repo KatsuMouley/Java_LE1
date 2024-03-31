@@ -25,6 +25,7 @@ public class Ex10 {
             default:
                 System.out.println("Número invalido!");
                 break;
-        }   
+        }
+        input.close();   
     }
 }

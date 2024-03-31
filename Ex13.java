@@ -29,6 +29,7 @@ public class Ex13 {
                 System.out.println("Insira um operador aritmético válido");
                 break;
         }
+        input.close();
         
         
     }

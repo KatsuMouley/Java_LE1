@@ -10,5 +10,6 @@ public class Ex7 {
         } else {
             System.out.printf("The number %d is NOT between 100 and 200\n", n);
         }
+        input.close();
     }
 }

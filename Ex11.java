@@ -30,5 +30,6 @@ public class Ex11 {
             System.out.printf(n[i] + " ");
         }
         System.out.println();
+        input.close();
     }
 }

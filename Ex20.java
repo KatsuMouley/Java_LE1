@@ -10,6 +10,7 @@ public class Ex20 {
         input.nextLine();
         double l = (t * v) / 12;
         System.out.println("Você gastou "+l+" litros nesta viagem");
+        input.close();
                   
     }
 }
