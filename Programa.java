@@ -1,5 +1,5 @@
 
-public class Console{
+public class Programa{
     public static void main(String[] args) {
             System.out.printf("Escolha uma atividade para executar\n(1 - 20)\nInput:");
             int value = UL.lerInteiro();
